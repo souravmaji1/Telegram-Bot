@@ -8,7 +8,7 @@ const port = 5000;
 app.use(bodyParser.json());
 app.use(cors());
 
-const token = '7247039495:AAHn1hqM1Ykj1hzmQZgMS8rh5uB638kAWNU';
+const token = '7302497063:AAEAg_qTInZk_AVmhgQBS7cRIx-2kpxigVA';
 const bot = new Telegraf(token);
 const web_link = "https://splendid-wisp-7896ac.netlify.app/";
 
